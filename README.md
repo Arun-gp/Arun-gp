@@ -60,4 +60,4 @@ Check out some of my projects:
 
 ---
 
-![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arunsoftware2003&show_icons=true&theme=radical)
+![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arun-gp&show_icons=true&theme=radical)
