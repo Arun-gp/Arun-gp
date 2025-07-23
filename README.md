@@ -56,8 +56,4 @@ Check out some of my projects:
 
 ---
 
-⚡ **Fun fact:** I’m self-taught in multiple languages and constantly pushing myself to build real-world solutions through code.
 
----
-
-![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arun-gp&show_icons=true&theme=radical)
