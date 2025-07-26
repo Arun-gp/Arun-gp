@@ -2,7 +2,7 @@
 
 🎯 Software Developer | Passionate about creating performant and responsive web apps  
 📍 Based in Coimbatore, India  
-📧 arunpandimca@gmail.com | 📱 6380657905  
+📧 arunpandimca@gmail.com | 📱+91 6380657905  
 🔗 [GitHub](https://github.com/Arun-gp)
 
 ---
@@ -17,7 +17,7 @@ Check out some of my projects:
 🌱 **Currently working on:**  
 - Master of Computer Applications (MCA)  
 - Freelance software projects at Nextriad Solutions  
-- Improving my React.js, Spring Boot, and AI integration skills
+- Improving my React.js, firebase and python integration skills
 
 ---
 
@@ -31,14 +31,14 @@ Check out some of my projects:
 ---
 
 💻 **I code in:**  
-- Languages: C, C++, Java, JavaScript, Python  
-- Frameworks/Libraries: React, Spring Boot, Node.js, Tailwind, Bootstrap, Pandas, Handlebars, REST APIs, ORM
+- Languages: c,JavaScript, Python,core-java 
+- Frameworks/Libraries: React.js, Spring Boot, Node.js, Tailwind, Bootstrap, Pandas, REST APIs, ORM
 
 🛠️ **Tools & IDEs I use:**  
-- VS Code, Git, GitHub, Electron.js, Postman, and more
+- VS Code, Git, GitHub, Electron.js,
 
 🧑‍💻 **Workspace Specs:**  
-- Laptop with Linux/Windows dual boot, 8GB RAM, VS Code, and browser dev tools
+- Laptop with Linux/Windows dual boot
 
 ---
 
